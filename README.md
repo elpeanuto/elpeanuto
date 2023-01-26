@@ -31,4 +31,4 @@
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elpeanuto&show_icons=true" />
 
 [telegram]: https://t.me/AndriiDrahuntsov
-[linkedin]: www.linkedin.com/in/andriydraguntsov
+[linkedin]: https://www.linkedin.com/in/andriydraguntsov
