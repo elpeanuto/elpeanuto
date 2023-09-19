@@ -17,4 +17,4 @@
 <br />
 
 [telegram]: https://t.me/AndriiDrahuntsov
-[linkedin]: https://www.linkedin.com/in/andrii-draguntsov
+[linkedin]: https://www.linkedin.com/in/andrii-drahuntsov
