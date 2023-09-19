@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Andrii
+### Hi there 👋
 
 ### Connect with me:
 
@@ -17,4 +17,4 @@
 <br />
 
 [telegram]: https://t.me/AndriiDrahuntsov
-[linkedin]: https://www.linkedin.com/in/andriydraguntsov
+[linkedin]: https://www.linkedin.com/in/andrii-draguntsov
